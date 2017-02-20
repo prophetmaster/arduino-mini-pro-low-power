@@ -39,7 +39,9 @@ Ensuite cliquez sur graver la séquence d'initialisation, attendez un moment et 
 Modification de l'arduino, il va faloir enlever pas mal de composants électronique pour qu'il consomme le moin possible de courant quand il est en veille ainsi qu'en fonctionnement.
 
 **avant modification :**
+
 ![arduino pro mini avant modification](https://github.com/prophetmaster/arduino-mini-pro-low-power/blob/master/arduino_pro_mini.png)
 
 **après modification :**
+
 ![arduino pro mini après modification](https://github.com/prophetmaster/arduino-mini-pro-low-power/blob/master/arduino_pro_modification.png)
