@@ -36,7 +36,7 @@ dans l'interface arduino rendez-vous dans outils et sélectionner les options su
 
 Ensuite cliquez sur graver la séquence d'initialisation, attendez un moment et vous devriez voir le message **thank you !**. Voilà c'est tout...
 
-Modification de l'arduino, il va faloir enlever pas mal de composants électronique pour qu'il consomme le moin possible de courant quand il est en veille ainsi qu'en fonctionnement.
+Modification de l'arduino, il va faloir enlever pas mal de composants électronique pour qu'il consomme le moin possible de courant quand il est en veille ainsi qu'en fonctionnement. Ce que nous allons supprimer, Le régulateur de tension, les leds, les résistances des leds, le résonateur quartz, le bouton reset, un condensateur qui ne sera plus utile. De plus avec cette modification l'arduino gagne plus de 25% sur la hauteur des composants on passe de 4mm à 1.1mm de hauteur donc ultra fin.
 
 **avant modification :**
 
