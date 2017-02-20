@@ -22,12 +22,12 @@ Installer le logiciel arduino ide disponible [ici](https://www.arduino.cc/en/Mai
 **Etape 1**
 branchement du programmateur **USB -> ISP AVR** sur l'arduino pro mini :
 
-VCC -> VCC
-Reset -> Reset
-GND -> GND
-Mosi -> pin 11 de l'arduino
-Miso -> pin 12 de l'arduino
-SCK -> pin 13 de l'arduino
+- VCC -> VCC
+- Reset -> Reset
+- GND -> GND
+- Mosi -> pin 11 de l'arduino
+- Miso -> pin 12 de l'arduino
+- SCK -> pin 13 de l'arduino
 
 **Etape 2**
 dans l'interface arduino rendez-vous dans outils et sélectionner les options suivantes :
